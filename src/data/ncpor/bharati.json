@@ -1,0 +1,33 @@
+{
+  "stationId": "bharati",
+  "stationName": "Bharati",
+  "source": "NCPOR",
+  "mode": "OFFLINE DATASET",
+  "portal": "NCPOR MET-Data",
+  "sourceUrl": "https://data.ncpor.res.in/bharati/live",
+  "coordinateSource": "NCPOR MET-Data Data Availability",
+  "coordinates": {
+    "latitude": -69.406833,
+    "longitude": 76.195333
+  },
+  "observations": [
+    {
+      "stationId": "bharati",
+      "observedAt": "2026-09-28",
+      "timestampPrecision": "day",
+      "timestampTimezone": null,
+      "temperatureC": -13.64,
+      "humidityPct": 84.4,
+      "pressureHpa": 977.1,
+      "windSpeedMps": 7.64,
+      "reportedWindSpeed": 14.86,
+      "reportedWindSpeedUnit": "knots",
+      "windDirectionDeg": null,
+      "coordinates": {
+        "latitude": -69.406833,
+        "longitude": 76.195333
+      },
+      "sourceUrls": ["https://data.ncpor.res.in/bharati/live"]
+    }
+  ]
+}

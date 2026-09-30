@@ -1,0 +1,38 @@
+{
+  "stationId": "maitri",
+  "stationName": "Maitri",
+  "source": "NCPOR",
+  "mode": "OFFLINE DATASET",
+  "portal": "NCPOR MET-Data",
+  "sourceUrl": "https://data.ncpor.res.in/maitri/live",
+  "coordinateSource": "NCPOR MET-Data Data Availability",
+  "coordinates": {
+    "latitude": -70.750458,
+    "longitude": 11.717069
+  },
+  "observations": [
+    {
+      "stationId": "maitri",
+      "observedAt": "2026-09-28T23:59:00",
+      "timestampPrecision": "minute",
+      "timestampTimezone": null,
+      "temperatureC": -13.1,
+      "humidityPct": 78.7,
+      "pressureHpa": null,
+      "windSpeedMps": 11.16,
+      "reportedWindSpeed": 21.7,
+      "reportedWindSpeedUnit": "knots",
+      "windDirectionDeg": 245,
+      "coordinates": {
+        "latitude": -70.750458,
+        "longitude": 11.717069
+      },
+      "sourceUrls": [
+        "https://data.ncpor.res.in/maitri/temp",
+        "https://data.ncpor.res.in/maitri/rh",
+        "https://data.ncpor.res.in/maitri/wind",
+        "https://data.ncpor.res.in/maitri/wind_d"
+      ]
+    }
+  ]
+}
